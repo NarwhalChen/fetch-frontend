@@ -1,0 +1,15 @@
+
+.parent-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #c9905a;
+}
+
+.dog-container {
+  max-width: 1000px; 
+  width: 100%; 
+  background-color: #eae1d4;
+  box-shadow: 0px 4px 118px rgba(0, 0, 0, 0.1); 
+}
